@@ -1,6 +1,6 @@
 # Bear Link Janitor
 
-[https://bear.app](Bear) is a nice app for writing notes. One thing that makes it nice is that you can make [[wiki-style links]] to other notes, with nice autocompleting search for the linked notes' titles.
+[Bear](https://bear.app) is a nice app for writing notes. One thing that makes it nice is that you can make [[wiki-style links]] to other notes, with nice autocompleting search for the linked notes' titles.
 
 Unfortunately, one not-so-nice thing is that the link is made _by-name_, not by any kind of durable reference, so if you use this feature, you'll end up with a proliferation of broken links as you occasionally change notes' titles. Or if you ever accidentally make two notes have the same title.
 
