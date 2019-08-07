@@ -4,7 +4,7 @@
 
 Unfortunately, one not-so-nice thing is that the link is made _by-name_, not by any kind of durable reference, so if you use this feature, you'll end up with a proliferation of broken links as you occasionally change notes' titles. Or if you ever accidentally make two notes have the same title.
 
-The developers have said that they plan to fix this at some point, but I found myself having to actively avoid this bug as I created and edited notes, so I made a band-aid to hold myself over.
+The developers have said that they plan to fix this at some point (update: [it's in the 1.7 beta](https://bear.app/beta/)), but I found myself having to actively avoid this bug as I created and edited notes, so I made a band-aid to hold myself over.
 
 This script tries to keep your Bear library's links in good shape by:
 
